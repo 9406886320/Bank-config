@@ -1,10 +1,11 @@
- build:
-  version: "1.O"
+build:
+  version: "1.0"
 
 loans:
-  message: "Welcome to Banking loans related Production  API's"
+  message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Pinky Agrawal- Developer"
-    email: "pinkyagrawal259@gmail.com"
+    name: "Pelias Sudhir - Product Owner"
+    email: "pelias@eazybank.com"
   onCallSupport:
-    -999-999-789
+    - (723) 656-8709
+    - (156) 342-0956
