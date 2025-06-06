@@ -2,7 +2,7 @@ build:
   version: "2.O"
 
 accounts:
-  message: "Welcome to Banking loans related QA u API's"
+  message: "Welcome to Banking loans related QA docker u API's"
   contactDetails:
     name: "Sandesh Agrawal- Developer"
     email: "sanagrawal259@gmail.com"
