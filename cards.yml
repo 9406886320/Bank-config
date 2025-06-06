@@ -2,7 +2,7 @@ build:
   version: "3.O"
 
 cards:
-  message: "Welcome to Banking cards related docker Y API's"
+  message: "Welcome to Banking cards related docker Yum API's"
   contactDetails:
     name: "Sakshi Agrawal- Developer"
     email: "sakshiagrawal259@gmail.com"
