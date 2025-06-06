@@ -2,7 +2,7 @@ build:
   version: "3.O"
 
 loans:
-  message: "Welcome to Banking loans related docker API's"
+  message: "Welcome to Banking loans related dockerS API's"
   contactDetails:
     name: "Sakshi Agrawal- Developer"
     email: "sakshiagrawal259@gmail.com"
