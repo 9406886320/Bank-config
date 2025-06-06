@@ -2,7 +2,7 @@ build:
   version: "3.O"
 
 cards:
-  message: "Welcome to Banking cards related local API's"
+  message: "Welcome to Banking cards related docker API's"
   contactDetails:
     name: "Sakshi Agrawal- Developer"
     email: "sakshiagrawal259@gmail.com"
