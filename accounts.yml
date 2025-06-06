@@ -2,7 +2,7 @@ build:
   version: "3.O"
 
 accounts:
-  message: "Welcome to Banking accounts related dockere jas API's"
+  message: "Welcome to Banking accounts related dockere jasim API's"
   contactDetails:
     name: "Sakshi Agrawal- Developer"
     email: "sakshiagrawal259@gmail.com"
